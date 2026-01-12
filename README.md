@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://cdn.modrinth.com/data/cached_images/123820c0d2e41582de42a9f02282353f9cbe2a67.png](https://cdn.modrinth.com/data/8aoMKplv/images/81fcb56d7fc54db831facf5febbdd1e021bb7fcc.gif)" width="720" alt="Punchy Banner"/>
+  <img src="https://cdn.modrinth.com/data/8aoMKplv/images/81fcb56d7fc54db831facf5febbdd1e021bb7fcc.gif" width="720" alt="Punchy Banner"/>
 </p>
 
 # Punchy! Documentation
