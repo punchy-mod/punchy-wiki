@@ -6,21 +6,21 @@
 
 Welcome to the Punchy! documentation repository. This wiki is available in English, Portuguese, and Spanish.
 
-**[Go to Home](Home.md)**
+**[Go to Home](https://github.com/punchy-mod/punchy-wiki/wiki/Home)**
 
 ## Quick Links
 
 ### English
-* [Resource Pack Compatibility Guide](Punchy!-Resource-Pack-Compatibility-Guide-EN-US.md)
-* [Debug Position and Tuning Guide](Punchy!-Mod-Debug-Position-EN-US.md)
-* [Custom Animation and Tuning System](Specific-Animation-&-More-Tuning-System-EN-US.md)
+* [Resource Pack Compatibility Guide](https://github.com/punchy-mod/punchy-wiki/wiki/Punchy!-Resource-Pack-Compatibility-Guide-EN-US)
+* [Debug Position and Tuning Guide](https://github.com/punchy-mod/punchy-wiki/wiki/Punchy!-Mod-Debug-Position-EN-US)
+* [Custom Animation and Tuning System](https://github.com/punchy-mod/punchy-wiki/wiki/Specific-Animation-&-More-Tuning-System-EN-US)
 
 ### Português
-* [Guia de Compatibilidade para Resource Packs](Punchy!-Resource-Pack-Compatibility-Guide-PT-BR.md)
-* [Tutorial de Debug Position e Tuning](Punchy!-Mod-Debug-Position-PT-BR.md)
-* [Sistema de Animações Custom e Ajustes](Specific-Animation-&-More-Tuning-System-PT-BR.md)
+* [Guia de Compatibilidade para Resource Packs](https://github.com/punchy-mod/punchy-wiki/wiki/Punchy!-Resource-Pack-Compatibility-Guide-PT-BR)
+* [Tutorial de Debug Position e Tuning](https://github.com/punchy-mod/punchy-wiki/wiki/Punchy!-Mod-Debug-Position-PT-BR)
+* [Sistema de Animações Custom e Ajustes](https://github.com/punchy-mod/punchy-wiki/wiki/Specific-Animation-&-More-Tuning-System-PT-BR)
 
 ### Español
-* [Guía de Compatibilidad para Paquetes de Recursos](Punchy!-Resource-Pack-Compatibility-Guide-ES-ES.md)
-* [Tutorial de posición de depuración y ajuste](Punchy!-Mod-Debug-Position-ES-ES.md)
-* [Sistema de Animaciones Personalizadas y Ajustes](Specific-Animation-&-More-Tuning-System-ES-ES.md)
+* [Guía de Compatibilidad para Paquetes de Recursos](https://github.com/punchy-mod/punchy-wiki/wiki/Punchy!-Resource-Pack-Compatibility-Guide-ES-ES)
+* [Tutorial de posición de depuración y ajuste](https://github.com/punchy-mod/punchy-wiki/wiki/Punchy!-Mod-Debug-Position-ES-ES)
+* [Sistema de Animaciones Personalizadas y Ajustes](https://github.com/punchy-mod/punchy-wiki/wiki/Specific-Animation-&-More-Tuning-System-ES-ES)
