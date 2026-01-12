@@ -4,8 +4,8 @@
 
 ### Quick Start 
 
-- **[How Resource Packs Can Add Punchy! Compatibility]([https://github.com/punchy-mod/punchy-wiki/wiki/Punchy!-Resource-Pack-Compatibility-Guide](https://github.com/punchy-mod/punchy-wiki/wiki/Punchy!-Resource-Pack-Compatibility-Guide-EN%E2%80%90US))**  
+- **[How Resource Packs Can Add Punchy! Compatibility](https://github.com/punchy-mod/punchy-wiki/wiki/Punchy!-Resource-Pack-Compatibility-Guide-EN%E2%80%90US)**  
   Learn how RP creators can add offsets, pivots, and transforms using the Punchy compat system.
 
-- **[Punchy! Mod Debug Position Wiki Tutorial]([https://github.com/punchy-mod/punchy-wiki/wiki/Punchy!-Mod-Debug-Position-Wiki-Tutorial](https://github.com/punchy-mod/punchy-wiki/wiki/Punchy!-Mod-Debug-Position-PT%E2%80%90BR))**  
+- **[Punchy! Mod Debug Position Wiki Tutorial](https://github.com/punchy-mod/punchy-wiki/wiki/Punchy!-Mod-Debug-Position-EN%E2%80%90US)**  
   This guide explains how to activate the debugPosition feature in the Punchy mod and how to use its associated keybinds for in-game model tuning.
